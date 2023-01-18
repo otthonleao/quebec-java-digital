@@ -1,18 +1,22 @@
-## Getting Started
+## Québec Java Digital
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Bootcamp in back-end offered by the Government of Quebec through Digital Innovation One (DIO).
 
-## Folder Structure
+## Main Technologies Covered
 
-The workspace contains two folders by default, where:
+- Java
+- Spring Framework
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Topics Covered
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Git e GitHub Introduction
+- Basic Java
+- Exceptions
+- Collections in Java
+- Object Oriented Programming
+- Tests with JUnit
+- Database (SQL) basic with PostgreSQL
+- Spring Framework and API
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Projects Challenges
+- Creating a Digital Bank
