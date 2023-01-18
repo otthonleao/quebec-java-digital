@@ -1,10 +1,10 @@
-## Trabalhando com Collections Java
+# Trabalhando com Collections Java
 
 Collection é um objeto que agrupa múltiplos elementos sendo variáveis primitivas ou objetos dentro de uma única unidade.
 
 Serve para armazenar e processar coleções de dados de forma eficiente.
 
-# Composição dos Collections
+## Composição dos Collections
 
 - **Interfaces:** É um contrato que quando assumido por uma classe deve ser implementado.
 - **Classes ou Implementações:** são as materializações, a codificação das interfaces.
@@ -12,7 +12,7 @@ Serve para armazenar e processar coleções de dados de forma eficiente.
 
 ## Collections com iterações ordenadas
 
-# Lists
+### Lists
 A interface **list** fica dentro do package **java.util.List**, tendo duas características:
 1. Elementos duplicados
 2. Garante ordem de inserção.
