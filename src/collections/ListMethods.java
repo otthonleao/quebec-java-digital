@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
 
-public class CollectionsLists {
+public class ListMethods {
 	public static void main(String[] args) {
 		//Os valores da array pode ser passado direto nos parentreses quando for instanciar o objeto igual como é feito quando temos um construtor
 		ArrayList<Double> notas = new ArrayList<Double>();
