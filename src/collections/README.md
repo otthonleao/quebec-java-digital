@@ -30,4 +30,9 @@ A interface **set** faz parte do package **java.util.Set**, tendo como caracteri
    2. HashSet
       1. LinkedHashSet
 
+### Maps
+A interface **map** faz parte do package **java.util.Map**, tendo elementos únicos (key) para cada valor (value). 
+1. TreeMap: utiliza bastante quando estivermos falando de comparação e ordenação
+2. HashMap:
+3. LinkedHashMap:
 
