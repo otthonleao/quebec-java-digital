@@ -18,7 +18,7 @@ import java.util.List;
 
  //[1] Criar uma classe gato e depois criar uma lista do tipo gato
 
-public class OrderingElements {
+public class OrderingList {
 	public static void main(String[] args) {
 		//Criando a lista do tipo Cat
 		List<Cat> myCats = new ArrayList<Cat>() {{
