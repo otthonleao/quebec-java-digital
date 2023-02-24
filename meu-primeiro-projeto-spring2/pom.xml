@@ -8,25 +8,30 @@
 		<version>3.0.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>edu.otthon.spring</groupId>
-	<artifactId>utilizandobeans</artifactId>
+	<groupId>edu.otthon.spring.meuPrimeiroProjeto</groupId>
+	<artifactId>meu-primeiro-projeto-spring2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>utilizandoBeans</name>
-	<description>Projeto livraria para implementação de Beans</description>
+	<name>meu-primeiro-projeto-spring2</name>
+	<description>Criando meu primeiro projeto com Spring Initializr</description>
 	<properties>
-		<java.version>19</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
+
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter</artifactId>
+			<artifactId>spring-boot-starter-actuator</artifactId>
 		</dependency>
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-devtools</artifactId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>com.h2database</groupId>
+			<artifactId>h2</artifactId>
 			<scope>runtime</scope>
-			<optional>true</optional>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
